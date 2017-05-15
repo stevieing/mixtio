@@ -47,6 +47,8 @@ module Mixtio
 
     config.barcode_prefix = 'RGNT_'
 
+    config.force_ssl = true
+
   end
 end
 
